@@ -1,0 +1,14 @@
+.splide__track {
+    position: relative;
+    z-index: 0;
+    overflow: hidden;
+    height: 230px;
+    width: 100%;
+    text-align: center;
+}
+
+.splide__track img {
+    height: 160px;
+    width: 100%;
+    margin-bottom: 1rem;
+}
